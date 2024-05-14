@@ -1,5 +1,5 @@
 public class Operaciones {
-
+//Esta clase sirve para hacer operaciones
     double suma(double a, double b) {
         return a + b;
     }
